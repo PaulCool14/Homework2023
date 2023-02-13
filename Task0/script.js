@@ -1,0 +1,9 @@
+num_1 = parseFloat(prompt('Write a first number'))
+num_2 = parseFloat(prompt('Write second number'))
+num_3 = parseFloat(prompt('Write third number'))
+double_Num_1 = num_1*2
+number_Sum = num_1+num_2
+document.write (`1)S1 = ${num_1+12+num_2} <br>
+2)S2 = ${Math.sqrt(number_Sum/double_Num_1)} <br>
+3)S3 = ${Math.cbrt(number_Sum*num_3)} <br>
+4)S4 = ${Math.sin(num_1/-num_2)}`)

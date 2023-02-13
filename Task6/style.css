@@ -1,0 +1,42 @@
+h1{
+    margin: 20px;
+    text-align: center;
+}
+div {
+    border: 5;
+    background-color: rgba(229, 213, 213, 0.392);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.div1{
+    height: 500px;
+    width: 400px;
+}   
+
+.div3{
+    position: relative;
+    top: -39px;
+    left: 344px;
+    display: inline;
+}
+.div5{
+    position: relative;
+    top: -38px;
+    left: 344px;
+    display: inline;
+}
+.div7{
+    position: relative;
+    top: -38px;
+    left: 344px;
+    display: inline;
+}
+h2{
+    position: relative;
+    top: 57px;
+}
+h3{
+    position: relative;
+    top: 131px;
+    left: 127px;
+}
